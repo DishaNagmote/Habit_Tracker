@@ -1,0 +1,10 @@
+# Ignore habit data file
+habits.json
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# OS-specific files
+.DS_Store
+Thumbs.db
